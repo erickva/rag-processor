@@ -1,0 +1,29 @@
+#!/usr/bin/env rag-processor
+@strategy: structured-blocks/empty-line-separated
+@source-url: https://example.com/products/catalog.pdf
+@metadata: {"business": "studio-camila-golin", "type": "product-catalog"}
+
+Name: Premium Fan
+Description: Handcrafted premium fan with golden details
+Price: $45.90
+Category: Home Decor
+
+Name: Wedding Menu
+Description: Elegant wedding menu with classic design
+Price: $12.50
+Category: Stationery
+
+Name: Vintage Invitation
+Description: Vintage floral invitation for special events
+Price: $8.75
+Category: Invitations
+
+Name: Custom Notebook
+Description: Personalized notebook with leather cover
+Price: $24.90
+Category: Stationery
+
+Name: Decorative Mirror
+Description: Ornate decorative mirror for home styling
+Price: $67.50
+Category: Home Decor

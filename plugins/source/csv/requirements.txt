@@ -1,0 +1,9 @@
+# CSV Input Plugin Dependencies
+# No additional dependencies required - uses Python standard library
+
+# Optional: For development and testing
+pytest>=7.0.0
+pandas>=1.3.0  # For advanced CSV operations (optional)
+
+# For integration testing with core system
+# rag-processor>=0.1.0
