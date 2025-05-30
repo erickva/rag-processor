@@ -1,4 +1,4 @@
-# RAG Document Processor
+# RAG Document Processor (in development)
 
 **Intelligent document chunking for optimal RAG performance**
 
